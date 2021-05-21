@@ -1,0 +1,3 @@
+enum ResponseStatus {
+  SUCCESS, FAILED
+}

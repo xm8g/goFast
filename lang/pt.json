@@ -1,0 +1,14 @@
+{
+  "intro": {
+    "welcome": "Bem Vindo PostIn",
+    "login_now": "ENTRAR AGORA",
+    "or": "ou",
+    "login_google": "ENTRAR COM GOOGLE",
+    "text_step1": "Compartilhe suas {{photos}} favoritas",
+    "text_step2": "Compartilhe momentos, experiências e amizades",
+    "text_step3": "Seja o que você quiser, se comunique e aprenda com os outros"
+  },
+  "login": {
+
+  }
+}
